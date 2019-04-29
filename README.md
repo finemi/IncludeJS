@@ -15,11 +15,11 @@ include('header.html');
 ```
 include('index.html #header');
 ```
-* 将"content.html"中的所有".list"元素*加载到"#wrap"元素内*
+* 将"content.html"中的所有".list"元素**加载到"#wrap"元素内**
 ```
 $('#wrap').include('content.html .list');
 ```
-* 用"content.html"中的所有".list"元素*替换"#wrap"元素*
+* 用"content.html"中的所有".list"元素**替换"#wrap"元素**
 ```
 $('#wrap').include('content.html .list',1);
 ```
