@@ -1,5 +1,5 @@
 # IncludeJS
-前端文件包含插件，类似于使用JSP的“<jsp:include page="..." />”命令。
+前端文件包含插件，类似于使用JSP的“<jsp:include page='...' />”命令。
 ### 开始使用
 引入jquery和jquery.include.js
 ```html
